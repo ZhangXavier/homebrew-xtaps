@@ -1,8 +1,8 @@
 class Screenfetch < Formula
     desc "Generate ASCII art with terminal, shell, and OS info"
     homepage "https://github.com/KittyKatt/screenFetch"
-    url "https://file.zxavier.com/screenFetch-3.9.1-21.01.03.tar.gz"
-    sha256 "a9137805b898fe6fc635fe6833f01b042d5d1caf22394d6b4993ec256fa0e3fb"
+    url "https://file.zxavier.com/screenFetch-3.9.1-21.03.23.tar.gz"
+    sha256 "10b40c733aa539f726bfd0905067a20572dd58ffa0246b8ebf511d7f5160c16a"
     license "GPL-3.0"
     head "https://github.com/KittyKatt/screenFetch.git", shallow: false
   
